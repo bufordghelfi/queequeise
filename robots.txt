@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ruishaenoh.webrtcweb.com/sitemap.xml
